@@ -1,0 +1,15 @@
+* {
+    -webkit-border-radius: 0 !important;
+       -moz-border-radius: 0 !important;
+            border-radius: 0 !important;
+}
+
+@media screen and (min-width: 1200px) {
+
+    .card-group-styling
+    {
+        margin-left: 10vw !important;
+        margin-right: 10vw !important;
+    }
+}
+
